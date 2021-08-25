@@ -1,0 +1,6 @@
+#requirements:
+ 1. for 64 bit system architecture - Build 18362 or higher, Version 1903 or higher.
+ 2. for arm64 systems - build 19041 or higher, Version 2002 or higher.
+
+! Build 18362 or lower do not support WSL2
+
