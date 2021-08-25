@@ -1,0 +1,4 @@
+#How to check the os-architecture of your computer:
+Run the following command:
+wmic os get architecture
+to see the os-architecture of your computer.
